@@ -58,3 +58,7 @@ The application will display the image with bounding boxes around the detected f
 - If you want to process multiple images, you can modify the code to accept a folder path as input and loop through all the images in that folder.
 - This application is for educational purposes and provides a basic example of face detection using a Haar cascade model. For more accurate and advanced face detection, consider using deep learning-based approaches such as the ones provided by OpenCV's DNN module or other frameworks like TensorFlow or PyTorch.
 
+## Acknowledgements:
+- The Haar cascade face detection model used in this repository is based on the work of Viola and Jones. Their groundbreaking paper, "Rapid Object Detection using a Boosted Cascade of Simple Features," introduced the concept of Haar-like features and the cascade classifier framework for efficient object detection.
+- The OpenCV library, an essential component of this project, is an open-source computer vision and machine learning software library. We acknowledge the OpenCV community for their dedication in developing and maintaining this powerful library.
+- The developers and contributors of Python, NumPy, and other open-source libraries that are utilized in this project deserve recognition for their valuable contributions to the software development community.
